@@ -1,0 +1,18 @@
+body{
+    background-color: red;
+    text-align: center;
+}
+.h{
+    color:goldenrod;
+    font-family: fantasy;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 50px;
+    text-decoration: underline;
+}
+.p{
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+}
